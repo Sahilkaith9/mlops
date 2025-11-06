@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sahil/Documents/mlops/mlruns/0/3bc1eec9360a4e869eb2d3b2e6c62341/artifacts
+end_time: 1762455348664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bc1eec9360a4e869eb2d3b2e6c62341
+run_name: able-sponge-833
+run_uuid: 3bc1eec9360a4e869eb2d3b2e6c62341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762455347217
+status: 3
+tags: []
+user_id: sahil

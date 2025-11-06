@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/sahil/Documents/mlops/mlruns/0/cd944bcb1d504554a4edd05a3cf3557b/artifacts
+deleted_time: 1762455164983
+end_time: 1762454343187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cd944bcb1d504554a4edd05a3cf3557b
+run_name: righteous-stoat-442
+run_uuid: cd944bcb1d504554a4edd05a3cf3557b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762454340910
+status: 3
+tags: []
+user_id: sahil
